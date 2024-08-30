@@ -24,5 +24,10 @@ pip install esk_image_processing
 ## Author
 Edson Shideki Kokado
 
+## Template
+```bash|
+https://github.com/eskokado/image-processing-package
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
